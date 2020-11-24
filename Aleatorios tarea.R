@@ -23,7 +23,7 @@ sample(1:83,39, replace = FALSE)
 #selecciona el nUmero de lista de las personas que formaran
 #parte de la muestra.
 
-#1.3.- Crea un vector llamado muestra con los nÃºmeros de 
+#1.3.- Crea un vector llamado muestra con los numeros de 
 #lista de las personas que forman parte de la muestra.
 
 muestra<-c(29, 44, 12, 50, 69, 62, 49, 20, 58, 59, 73, 23, 65, 11, 64, 78, 13, 43, 56, 33, 19, 71, 63, 26, 10, 17, 18,
@@ -68,5 +68,5 @@ sample(1:83,21, replace = FALSE)
 #personas que participaran: 42, 50, 12, 77, 4, 80, 29, 13, 16, 1, 64, 27, 71, 53, 9, 63, 17, 61, 83, 47, 40, 32, 70, 53, 75, 51, 41, 15, 74, 42,
 
 #Lic educacion especial
-sample(1:35,13, replace = FALSE)
-#personas que participaran: 24, 15, 17, 1, 18, 21, 34, 10, 11, 23, 28, 26, 29
+sample(1:25,13, replace = FALSE)
+#personas que participaran: 13, 4, 16, 3, 17, 19, 1, 18, 6, 12, 22, 22, 2
